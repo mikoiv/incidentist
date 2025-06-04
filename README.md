@@ -1,2 +1,2 @@
-# xdr-incidentist
+# Incidentist
 Webapp dashboard for security incidents (MS Graph)
